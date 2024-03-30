@@ -1,4 +1,3 @@
-import json
 import boto3
 import os
 from opensearchpy import OpenSearch, RequestsHttpConnection, AWSV4SignerAuth
